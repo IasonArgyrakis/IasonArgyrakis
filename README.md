@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IasonArgyrakis
 - 👀 I’m interested in IOT Typescript C++
-- 🌱 I’m currently learning PHP TYPESCRIPT C++
+- 🌱 I’m currently learning PHP Typescript C++
 - 💞️ I’m looking to collaborate on IOT PROJECTS
 - 📫 How to reach me jasonargirakis@gmail.com
 
